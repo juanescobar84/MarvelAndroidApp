@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="strNetworkStatus">No Internet connection</string>
+    <string name="lblEdit">Edit</string>
+    <string name="lblDelete">Delete</string>
+    <string name="lblDescription">Description</string>
+    <string name="lblName">Name</string>
+    <string name="ivHeroImageDescription">Hero image</string>
+    <string name="validateEmptyName">Hero name is required</string>
+    <string name="lblSettings">Settings</string>
+    <string name="Logout">Logout</string>
+    <string name="lblLoginGoogleFailed">Login with Google failed</string>
+    <string name="lblWelcome">Welcome</string>
+    <string name="lblConnect">Connect with your Google account</string>
+    <string name="lblYes">Si</string>
+    <string name="lblNo">No</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Marvel</string>
+    <string name="strNetworkStatus">No hay conexión a Internet</string>
+    <string name="lblEdit">Editar</string>
+    <string name="lblDelete">Borrar</string>
+    <string name="lblDescription">Descripción</string>
+    <string name="lblName">Nombre</string>
+    <string name="ivHeroImageDescription">Imagen del heroe</string>
+    <string name="validateEmptyName">El nombre del heroe es requerido</string>
+    <string name="lblSettings">Opciones</string>
+    <string name="Logout">Salir</string>
+    <string name="lblLoginGoogleFailed">Login con Google falló</string>
+    <string name="lblWelcome">Bienvenido</string>
+    <string name="lblConnect">Conéctate con tu cuenta de Google</string>
+    <string name="lblYes">Si</string>
+    <string name="lblNo">No</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnSize">120dp</dimen>
+    <dimen name="vwHeight">50dp</dimen>
+    <dimen name="vwWidht">0dp</dimen>
+    <dimen name="etDescriptionHeight">200dp</dimen>
+    <dimen name="lyMargin">20dp</dimen>
+    <dimen name="ivThumbnailWidth">100dp</dimen>
+    <dimen name="tvHeroNameSize">18sp</dimen>
+    <dimen name="defaultMarginTop">5dp</dimen>
+    <dimen name="lblConnect">15sp</dimen>
+    <dimen name="rlPadding">20dp</dimen>
+</resources>
